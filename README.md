@@ -1,7 +1,7 @@
 # 🎭 Telegram Emoji Downloader
 
 <div align="center">
-  <img src="images/Unititled(1) 1.png" alt="Telegram Emoji Downloader" width="100%"/>
+  <img src="images/Untitled(2) 1.png" alt="Telegram Emoji Downloader" width="100%"/>
   
   <br/>
   
